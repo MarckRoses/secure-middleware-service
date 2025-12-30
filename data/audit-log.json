@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0704e7bd-7dd6-4469-8226-66becefa1692",
+    "userId": "user-123",
+    "createdAt": "2025-12-30T04:37:35.310Z",
+    "originalMessageEncrypted": "eyJpdiI6IjA4Yjc3YjhiN2U2MWE0MzZiOTVjMGRiYSIsImNpcGhlcnRleHQiOiIxOTkwOGVkYmY1ZDdiYmZhMTMyZDcyNzAxMmM0ZjVlNjRkM2I4ZjY2N2ZjZDYwYzhkNzE2ODg5MzZhZWEyMDVlZTAyMzhkMTY3ZTIyN2E3ZWUxNzM4OGQyZGZiZjE4MDQzZjg5YmIyZWVmYTNiOGUzMDFiMGUxNjE5MWYyYzA4N2M5YjRkZjQ2Y2UiLCJhdXRoVGFnIjoiNGI2NThjOTgzNmNlY2JjMWYzYWYxNzcwMWY2ZTMwNTMifQ==",
+    "redactedMessage": "My email is <REDACTED: EMAIL> and my SSN is <REDACTED: SSN>. Do not share!",
+    "aiResult": "Generated Answer.",
+    "circuitState": "CLOSED"
+  },
+  {
+    "id": "4ed27dbb-2e2d-4168-9792-19201d798d59",
+    "userId": "test",
+    "createdAt": "2025-12-30T04:38:16.110Z",
+    "originalMessageEncrypted": "eyJpdiI6IjMxNDZiZWRhYmIzMGVkOGFhZmQ3YjkxZiIsImNpcGhlcnRleHQiOiI5YjA2MDQ3OGE2MmNhMiIsImF1dGhUYWciOiJlMjQ1ZGQ5YWU3YzQwN2FmZjNiZmYyYTkzNTdlYzg5NyJ9",
+    "redactedMessage": "fail me",
+    "aiResult": "Error: AI call failed",
+    "circuitState": "CLOSED"
+  },
+  {
+    "id": "f3a6a146-f0f5-49fd-aece-c8a9d89f5932",
+    "userId": "test",
+    "createdAt": "2025-12-30T04:38:34.524Z",
+    "originalMessageEncrypted": "eyJpdiI6IjkxZjVkNzYwYWU2ODYxZDlkZjVjZDkzNiIsImNpcGhlcnRleHQiOiJkNDEwMjUyMDJlNDI2YyIsImF1dGhUYWciOiI3OWVjNzIyZTY4MjdiOGZlMzAzOGUyNzNkMWU0M2YyOSJ9",
+    "redactedMessage": "fail me",
+    "aiResult": "Error: AI call failed",
+    "circuitState": "CLOSED"
+  },
+  {
+    "id": "64f67a9d-16e6-40df-bffa-98b985075a9d",
+    "userId": "test",
+    "createdAt": "2025-12-30T04:38:43.563Z",
+    "originalMessageEncrypted": "eyJpdiI6IjAyODQ5ZWYxMTI5ZDMxYmYzOGYxMjI4YiIsImNpcGhlcnRleHQiOiIzMGM5ZGI1ODMzNjU3YSIsImF1dGhUYWciOiJjM2VmMWZiNDVjM2IyNGNlMjUyMjc1MjEzMDZlYWJjYSJ9",
+    "redactedMessage": "fail me",
+    "aiResult": "Error: AI call failed",
+    "circuitState": "OPEN"
+  },
+  {
+    "id": "8aa5805e-4a04-48a2-ba62-fc63dfa5b204",
+    "userId": "test",
+    "createdAt": "2025-12-30T04:38:51.135Z",
+    "originalMessageEncrypted": "eyJpdiI6Ijc3NWMyMzZhY2NiNDdmZjIxZWE4ODE4MCIsImNpcGhlcnRleHQiOiI4YzY4N2ZlZjZlNDczNGYyOWNjN2FlIiwiYXV0aFRhZyI6IjhlZmZlYjJkYTkwZDM1ZWE4YTdjOGYwMWYxMWYzZTQ2In0=",
+    "redactedMessage": "is it open?",
+    "aiResult": "Service Busy",
+    "circuitState": "OPEN"
+  }
+]
